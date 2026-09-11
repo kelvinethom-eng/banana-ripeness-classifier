@@ -26,3 +26,5 @@ A Deep Learning computer vision model built with TensorFlow/Keras and MobileNetV
 git clone [https://github.com/kelvinethom-eng/banana-ripeness-classifier.git](https://github.com/kelvinethom-eng/banana-ripeness-classifier.git)
 cd banana-ripeness-classifier
 pip install -r requirements.txt
+```
+### stremlit (https://banana-ripeness-classifier-fxcbcjayqersdqrejaagoz.streamlit.app/)
